@@ -91,3 +91,4 @@ This project builds upon previous work:
 - https://github.com/TsingZ0/PFL-Non-IID
 - https://github.com/microsoft/PersonalizedFL
 - https://github.com/Xtra-Computing/NIID-Bench
+- https://github.com/MediaBrain-SJTU/pFedGraph
