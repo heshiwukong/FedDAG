@@ -1,4 +1,4 @@
-# FedDNG: Dynamic Neighbors Graph for Personalized Federated Learning
+# FedDAG: Dynamic Adjacency Graph for Personalized Federated Learning
 
 ## 1. Introduction
 In real-world federated learning (FL), data heterogeneity across clients often leads to slower convergence, reduced accuracy, and diminished collaboration. FedDNG proposes a novel PFL approach based on dynamic neighbors graphs that:
